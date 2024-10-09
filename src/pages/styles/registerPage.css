@@ -1,0 +1,51 @@
+.container-register{
+    margin-left: 35%;
+    width: 350px;
+    height: 460px;
+    border: 2px solid rgb(201, 201, 201);
+    border-radius: 8px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.label{
+    margin-top: 10px;
+}
+
+.input{
+    height: 25px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.h1-create{
+    margin-top: 30px;
+    width: 400px;
+}
+
+.form-register{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 200px;
+}
+
+.button-register{
+    width: 120px;
+    position: relative;
+    left: 35px;
+    margin-top: 15px;
+    border-radius: 20px;
+    border: none;
+    padding: 7px;
+    background-color: rgb(2, 162, 211);
+    font-weight: bold;
+    font-size: .8rem;
+    color: white;
+}
+
+.input:focus{
+    background-color: rgba(201, 201, 201, 0.493);
+}

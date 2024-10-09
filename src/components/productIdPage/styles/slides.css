@@ -1,0 +1,23 @@
+.splide__slide{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.splide__slide img{
+    width: 250px;
+    height: 200px;
+}
+
+.splide__arrow {
+    background-color: rgb(2, 162, 211);
+}
+
+.splide__pagination__page{
+    background-color: rgb(2, 162, 211);
+}
+
+.splide__pagination__page.is-active{
+    background-color: rgb(1, 103, 185);
+}

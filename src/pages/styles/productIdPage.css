@@ -1,0 +1,11 @@
+.contentSlideImages{
+    width: 400px;
+}
+
+.container-idProduct-page{
+    /* width: 100vw; */
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

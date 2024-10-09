@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+body.dark{
+  background-color: black;
+  color: white;
+}
+
+img{
+  display: inline-block;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+body{
+  background-color: white;
+  color: black;
+}
+
+button{
+  cursor: pointer;
+}

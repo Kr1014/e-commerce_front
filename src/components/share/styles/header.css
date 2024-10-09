@@ -1,0 +1,31 @@
+.header-nav{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+.title-nav{
+    margin-right: 750px;
+    font-size: 2.5rem;
+}
+
+.title-nav-2{
+    color: rgb(2, 162, 211);
+}
+
+.ciUser {
+    font-size: 2rem;
+    color: rgb(2, 162, 211);
+}
+
+.nav-ul{
+    display: flex;
+    gap: 40px;
+}
+
+.line-nav{
+    width: 100%;
+    height: 2px;
+    background-color: rgb(196, 196, 196);
+}

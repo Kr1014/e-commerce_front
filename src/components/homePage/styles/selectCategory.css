@@ -1,0 +1,10 @@
+.select-category{
+    position: relative;
+    top: 170px;
+    left: 20px;
+    /* background-color: black; */
+}
+
+select{
+    cursor: pointer;
+}

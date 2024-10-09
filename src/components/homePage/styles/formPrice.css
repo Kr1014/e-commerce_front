@@ -1,0 +1,50 @@
+.form-price{
+    width: 400px;
+    position: relative;
+    top: 120px;
+}
+
+.input-from-price, .input-to-price {
+    height: 35px;
+    padding: 2px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.input-to-price{
+    margin-left: 24px;
+}
+
+.label-from-price, .label-to-price {
+    font-size: 1.2rem;
+    margin-left: 50px;
+}
+
+.buton-filter-price{
+    position: relative;
+    border: none;
+    color: white;
+    background-color: rgb(2, 162, 211);
+    left: 170px;
+    top: 40px;
+    height: 40px;
+    width: 100px;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: .9rem;
+}
+
+.line-price{
+    height: 3px;
+    width: 225px;
+    background-color: gainsboro;
+    position: absolute;
+    bottom: 150px;
+    left: 50px;
+}
+
+.price-h3{
+    position: absolute;
+    top: -50px;
+    margin-left: 50px;
+}
